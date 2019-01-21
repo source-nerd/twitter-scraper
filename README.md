@@ -1,5 +1,5 @@
 # Twitter Scraper
-![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple Python based Twitter Scraper with the ability of scripng tweets either by username or by a search query (Supports other search params as well). This program supports `STOP / RESUME` operation as it keeps a log of all the previous position id's. 
 This project was created inorder to bypass twitter's 7 day policy since it doesn't allow to fetch tweets which are more than 7 days old as I needed some data for my research project. 
