@@ -1,4 +1,4 @@
-beautifulsoup4==4.7.1
+beautifulsoup4==4.9.1
 bs4==0.0.1
 certifi==2018.11.29
 cfscrape==2.0.5
