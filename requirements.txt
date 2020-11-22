@@ -9,7 +9,7 @@ idna==2.8
 lxml==4.3.3
 numpy==1.16.4
 pandas==0.24.2
-pyquery==1.4.0
+pyquery==1.4.3
 python-dateutil==2.7.5
 pytz==2019.1
 requests==2.22.0
