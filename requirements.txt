@@ -13,6 +13,6 @@ pyquery==1.4.0
 python-dateutil==2.7.5
 pytz==2019.1
 requests==2.22.0
-six==1.12.0
+six==1.16.0
 soupsieve==1.9
 urllib3==1.25.3
