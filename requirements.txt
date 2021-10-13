@@ -5,7 +5,7 @@ cfscrape==2.0.5
 chardet==3.0.4
 Click==7.0
 cssselect==1.0.3
-idna==2.8
+idna==3.3
 lxml==4.3.3
 numpy==1.16.4
 pandas==0.24.2
